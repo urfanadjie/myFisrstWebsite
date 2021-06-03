@@ -2,9 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <script src="bootstrap/js/jquery-3.2.1.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <title>Pendaftaran</title>
   </head>
   <body style="padding-top: 50px; padding-bottom: 200px;">
